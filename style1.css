@@ -3,3 +3,66 @@
     background-color:rgb(255, 255, 255);
     letter-spacing: 2px;
   }
+
+  .box
+   {
+       width:33%;
+       padding-bottom:40%;
+       background-color:pink;
+       border:1px solid whitesmoke;
+       background-size:cover;
+   
+   }
+   
+   .high
+   {
+       padding-bottom:30%;
+       background-color:red;
+   
+   
+   }
+   
+   .wide
+   {
+       padding-bottom:50%;
+       background-color:red;
+   
+   
+   }
+
+   h1 {
+    font-family: 'Lora', serif;
+    font-size:35px;
+    color:grey;
+    letter-spacing: 2px;
+    
+    }
+
+h2 {
+        font-family:  'Faster One', cursive;
+        font-size:40px;
+        color:white;
+        
+        }
+
+h3 {
+            font-family: 'Lora', serif;
+            letter-spacing: 1px;
+         
+}
+
+
+
+p{
+            font-family: 'Lora', serif;
+            font-size:15px;
+            color:rgb(153, 153, 153);
+            letter-spacing: 1px;
+            
+            }
+
+
+.col {
+    padding-right: 0;
+    padding-left: 0;
+  }
